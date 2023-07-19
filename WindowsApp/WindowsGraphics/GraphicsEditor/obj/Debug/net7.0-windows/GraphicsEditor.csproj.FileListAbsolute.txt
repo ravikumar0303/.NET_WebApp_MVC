@@ -1,0 +1,17 @@
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\bin\Debug\net7.0-windows\GraphicsEditor.exe
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\bin\Debug\net7.0-windows\GraphicsEditor.deps.json
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\bin\Debug\net7.0-windows\GraphicsEditor.runtimeconfig.json
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\bin\Debug\net7.0-windows\GraphicsEditor.dll
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\bin\Debug\net7.0-windows\GraphicsEditor.pdb
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\obj\Debug\net7.0-windows\GraphicsEditor.csproj.AssemblyReference.cache
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\obj\Debug\net7.0-windows\GraphicsEditor.Form1.resources
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\obj\Debug\net7.0-windows\GraphicsEditor.csproj.GenerateResource.cache
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\obj\Debug\net7.0-windows\GraphicsEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\obj\Debug\net7.0-windows\GraphicsEditor.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\obj\Debug\net7.0-windows\GraphicsEditor.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\obj\Debug\net7.0-windows\GraphicsEditor.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\obj\Debug\net7.0-windows\GraphicsEditor.dll
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\obj\Debug\net7.0-windows\refint\GraphicsEditor.dll
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\obj\Debug\net7.0-windows\GraphicsEditor.pdb
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\obj\Debug\net7.0-windows\GraphicsEditor.genruntimeconfig.cache
+D:\Ravi\CDAC\PGDAC\IET\Day_8\ECommerce\GraphicsEditor\obj\Debug\net7.0-windows\ref\GraphicsEditor.dll

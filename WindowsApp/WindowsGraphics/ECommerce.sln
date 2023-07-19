@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstWebApp", "FirstWebApp\FirstWebApp.csproj", "{80959798-FD7F-48A2-B7FE-23D239E26914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsEditor", "GraphicsEditor\GraphicsEditor.csproj", "{79B0EA49-9365-4F10-ABAD-7EEBDAD6CBE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80959798-FD7F-48A2-B7FE-23D239E26914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80959798-FD7F-48A2-B7FE-23D239E26914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80959798-FD7F-48A2-B7FE-23D239E26914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80959798-FD7F-48A2-B7FE-23D239E26914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B0EA49-9365-4F10-ABAD-7EEBDAD6CBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B0EA49-9365-4F10-ABAD-7EEBDAD6CBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B0EA49-9365-4F10-ABAD-7EEBDAD6CBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B0EA49-9365-4F10-ABAD-7EEBDAD6CBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D72DBC0-DC4B-4B5F-A962-4554D2A77D76}
+	EndGlobalSection
+EndGlobal

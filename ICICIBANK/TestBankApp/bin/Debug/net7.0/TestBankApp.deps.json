@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestBankApp/1.0.0": {
+        "dependencies": {
+          "BankingLib": "1.0.0",
+          "TaxHandlersLib": "1.0.0",
+          "TaxPolicyLib": "1.0.0"
+        },
+        "runtime": {
+          "TestBankApp.dll": {}
+        }
+      },
+      "BankingLib/1.0.0": {
+        "dependencies": {
+          "TaxPolicyLib": "1.0.0"
+        },
+        "runtime": {
+          "BankingLib.dll": {}
+        }
+      },
+      "TaxHandlersLib/1.0.0": {
+        "runtime": {
+          "TaxHandlersLib.dll": {}
+        }
+      },
+      "TaxPolicyLib/1.0.0": {
+        "runtime": {
+          "TaxPolicyLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestBankApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankingLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxHandlersLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxPolicyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
