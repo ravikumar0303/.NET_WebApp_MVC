@@ -1,0 +1,12 @@
+C:\Dotnet\Day_6\HDFCBank\TaxPolicyLib\bin\Debug\net7.0\TaxPolicyLib.deps.json
+C:\Dotnet\Day_6\HDFCBank\TaxPolicyLib\bin\Debug\net7.0\TaxPolicyLib.dll
+C:\Dotnet\Day_6\HDFCBank\TaxPolicyLib\bin\Debug\net7.0\TaxPolicyLib.pdb
+C:\Dotnet\Day_6\HDFCBank\TaxPolicyLib\obj\Debug\net7.0\TaxPolicyLib.csproj.AssemblyReference.cache
+C:\Dotnet\Day_6\HDFCBank\TaxPolicyLib\obj\Debug\net7.0\TaxPolicyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Day_6\HDFCBank\TaxPolicyLib\obj\Debug\net7.0\TaxPolicyLib.AssemblyInfoInputs.cache
+C:\Dotnet\Day_6\HDFCBank\TaxPolicyLib\obj\Debug\net7.0\TaxPolicyLib.AssemblyInfo.cs
+C:\Dotnet\Day_6\HDFCBank\TaxPolicyLib\obj\Debug\net7.0\TaxPolicyLib.csproj.CoreCompileInputs.cache
+C:\Dotnet\Day_6\HDFCBank\TaxPolicyLib\obj\Debug\net7.0\TaxPolicyLib.dll
+C:\Dotnet\Day_6\HDFCBank\TaxPolicyLib\obj\Debug\net7.0\refint\TaxPolicyLib.dll
+C:\Dotnet\Day_6\HDFCBank\TaxPolicyLib\obj\Debug\net7.0\TaxPolicyLib.pdb
+C:\Dotnet\Day_6\HDFCBank\TaxPolicyLib\obj\Debug\net7.0\ref\TaxPolicyLib.dll

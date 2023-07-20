@@ -1,0 +1,15 @@
+C:\Dotnet\Day_6\HDFCBank\BankingLib\bin\Debug\net7.0\BankingLib.deps.json
+C:\Dotnet\Day_6\HDFCBank\BankingLib\bin\Debug\net7.0\BankingLib.dll
+C:\Dotnet\Day_6\HDFCBank\BankingLib\bin\Debug\net7.0\BankingLib.pdb
+C:\Dotnet\Day_6\HDFCBank\BankingLib\obj\Debug\net7.0\BankingLib.csproj.AssemblyReference.cache
+C:\Dotnet\Day_6\HDFCBank\BankingLib\obj\Debug\net7.0\BankingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Day_6\HDFCBank\BankingLib\obj\Debug\net7.0\BankingLib.AssemblyInfoInputs.cache
+C:\Dotnet\Day_6\HDFCBank\BankingLib\obj\Debug\net7.0\BankingLib.AssemblyInfo.cs
+C:\Dotnet\Day_6\HDFCBank\BankingLib\obj\Debug\net7.0\BankingLib.csproj.CoreCompileInputs.cache
+C:\Dotnet\Day_6\HDFCBank\BankingLib\obj\Debug\net7.0\BankingLib.dll
+C:\Dotnet\Day_6\HDFCBank\BankingLib\obj\Debug\net7.0\refint\BankingLib.dll
+C:\Dotnet\Day_6\HDFCBank\BankingLib\obj\Debug\net7.0\BankingLib.pdb
+C:\Dotnet\Day_6\HDFCBank\BankingLib\obj\Debug\net7.0\ref\BankingLib.dll
+C:\Dotnet\Day_6\HDFCBank\BankingLib\bin\Debug\net7.0\TaxPolicyLib.dll
+C:\Dotnet\Day_6\HDFCBank\BankingLib\bin\Debug\net7.0\TaxPolicyLib.pdb
+C:\Dotnet\Day_6\HDFCBank\BankingLib\obj\Debug\net7.0\BankingLib.csproj.CopyComplete

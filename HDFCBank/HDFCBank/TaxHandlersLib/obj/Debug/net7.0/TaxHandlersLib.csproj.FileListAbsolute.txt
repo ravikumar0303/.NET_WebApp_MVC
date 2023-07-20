@@ -1,0 +1,12 @@
+C:\Dotnet\Day_6\HDFCBank\TaxHandlersLib\bin\Debug\net7.0\TaxHandlersLib.deps.json
+C:\Dotnet\Day_6\HDFCBank\TaxHandlersLib\bin\Debug\net7.0\TaxHandlersLib.dll
+C:\Dotnet\Day_6\HDFCBank\TaxHandlersLib\bin\Debug\net7.0\TaxHandlersLib.pdb
+C:\Dotnet\Day_6\HDFCBank\TaxHandlersLib\obj\Debug\net7.0\TaxHandlersLib.csproj.AssemblyReference.cache
+C:\Dotnet\Day_6\HDFCBank\TaxHandlersLib\obj\Debug\net7.0\TaxHandlersLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Day_6\HDFCBank\TaxHandlersLib\obj\Debug\net7.0\TaxHandlersLib.AssemblyInfoInputs.cache
+C:\Dotnet\Day_6\HDFCBank\TaxHandlersLib\obj\Debug\net7.0\TaxHandlersLib.AssemblyInfo.cs
+C:\Dotnet\Day_6\HDFCBank\TaxHandlersLib\obj\Debug\net7.0\TaxHandlersLib.csproj.CoreCompileInputs.cache
+C:\Dotnet\Day_6\HDFCBank\TaxHandlersLib\obj\Debug\net7.0\TaxHandlersLib.dll
+C:\Dotnet\Day_6\HDFCBank\TaxHandlersLib\obj\Debug\net7.0\refint\TaxHandlersLib.dll
+C:\Dotnet\Day_6\HDFCBank\TaxHandlersLib\obj\Debug\net7.0\TaxHandlersLib.pdb
+C:\Dotnet\Day_6\HDFCBank\TaxHandlersLib\obj\Debug\net7.0\ref\TaxHandlersLib.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUpFMwj6TwvNRItbHpC3SXfqzfvCqm/zx6OsafKx6aUrgt7+PVDvHeGvECUE3ud7xw14rbyQ/Zfhlk6xSrDyqQ==",
+  "success": false,
+  "projectFilePath": "c:\\Users\\IET\\Desktop\\Dotnet Notes\\.NET-main\\Day11\\ECommerce\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'mysql.data' from remote source 'https://api.nuget.org/v3-flatcontainer/mysql.data/index.json'.",
+      "libraryId": "mysql.data"
+    }
+  ]
+}
