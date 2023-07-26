@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IyhRBQizGzDjv9zy4nZejQVVLaOxHguYx3RYlDKEnHg=",
+  "Source": "ORMWebApi",
+  "BasePath": "_content/ORMWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
